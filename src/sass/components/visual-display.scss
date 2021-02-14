@@ -1,0 +1,17 @@
+
+.visual-display {
+    padding: 45px 25px 15px;
+    border-bottom: 1px solid #f3f3f3;
+    text-align: right;
+
+    &__field {
+        width: 100%;
+        height: 35px;
+        padding: 0;
+        background: transparent;
+        border: none;
+        font-size: 35px;
+        line-height: 1;
+        text-align: right;
+    }
+}

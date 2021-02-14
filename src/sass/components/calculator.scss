@@ -1,0 +1,12 @@
+
+@import "../themes.scss";
+
+@import "../core.scss";
+
+.calculator {
+    @extend %middle;
+    width: $calculatorSize;
+    background-color: #fff;
+    border-radius: 7px;
+    box-shadow: 2px 2px 2px #e4e4e4;
+}

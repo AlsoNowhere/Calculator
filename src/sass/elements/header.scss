@@ -1,0 +1,11 @@
+
+@import "../themes.scss";
+
+.calculator-header {
+    width: $calculatorSize;
+    margin: 0 auto;
+
+    &__text {
+        margin: 0;
+    }
+}
